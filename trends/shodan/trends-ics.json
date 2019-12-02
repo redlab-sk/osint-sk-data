@@ -1,3 +1,21 @@
 {
-"ics": []
+    "ics": [
+        {
+            "ProConOS": 0, 
+            "EtherNet-IP": 66, 
+            "OMRON-FINS": 2, 
+            "Siemens-S7": 54, 
+            "PCWorx": 0, 
+            "Crimson-v3": 0, 
+            "Modbus": 104, 
+            "BACnet": 29, 
+            "Niagara": 104, 
+            "CODESYS": 3, 
+            "IEC-60870-5-104": 8, 
+            "MELSEC-Q": 0, 
+            "HART-IP": 0, 
+            "GE-SRTP": 0, 
+            "DNP3": 3
+        }
+    ]
 }

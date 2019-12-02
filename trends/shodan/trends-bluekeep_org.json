@@ -1,3 +1,11 @@
 {
-"bluekeep": []
+    "bluekeep": [
+        {
+            "UPC Slovakia": 15, 
+            "SWAN, a.s.": 66, 
+            "University of Zilina": 22, 
+            "Slovak Telekom": 109, 
+            "Slovak Telecom": 92
+        }
+    ]
 }
