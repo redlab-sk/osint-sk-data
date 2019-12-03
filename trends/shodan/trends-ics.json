@@ -1,6 +1,7 @@
 {
     "ics": [
         {
+            "date": "2019-12-01",
             "ProConOS": 0, 
             "EtherNet-IP": 66, 
             "OMRON-FINS": 2, 
