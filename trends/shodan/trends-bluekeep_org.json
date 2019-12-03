@@ -1,12 +1,35 @@
 {
     "bluekeep": [
         {
-            "date": "2019-12-01",
-            "UPC Slovakia": 15, 
-            "SWAN, a.s.": 66, 
-            "University of Zilina": 22, 
             "Slovak Telekom": 109, 
+            "UPC Slovakia": 15, 
+            "University of Zilina": 22, 
+            "SWAN, a.s.": 66, 
+            "date": "2019-12-01", 
             "Slovak Telecom": 92
+        }, 
+        {
+            "Cloud Services CZ": 10, 
+            "LightStorm Communications s.r.o.": 6, 
+            "Slovanet a.s.": 22, 
+            "Slovak Telekom": 115, 
+            "Orange Slovensko, a.s.": 14, 
+            "RadioLAN": 6, 
+            "ANTIK NAT Customers": 5, 
+            "Zdruzenie pouzivatelov Slovenskej akademickej dato": 5, 
+            "Orange Slovensko a.s.": 20, 
+            "UPC Slovakia": 24, 
+            "DSI DATA, a. s.": 10, 
+            "University of Zilina": 23, 
+            "Technical University in Zvolen": 4, 
+            "SWAN, a.s.": 67, 
+            "date": "2019-12-03", 
+            "DTnet Detva s.r.o.": 7, 
+            "Slovak Technical University": 14, 
+            "VNET, a.s.": 12, 
+            "ISPER, s.r.o.": 4, 
+            "Slovak Academy of Sciences": 10, 
+            "Slovak Telecom": 93
         }
     ]
 }

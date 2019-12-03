@@ -1,15 +1,27 @@
 {
     "db": [
         {
-            "date": "2019-12-01",
             "PostgreSQL": 658, 
             "Elastic": 12, 
             "MongoDB": 19, 
             "CouchDB": 0, 
             "Redis": 3, 
             "MySQL": 2797, 
+            "date": "2019-12-01", 
             "Riak": 0, 
             "Memcached": 16, 
+            "Cassandra": 0
+        }, 
+        {
+            "PostgreSQL": 660, 
+            "Elastic": 12, 
+            "MongoDB": 17, 
+            "CouchDB": 0, 
+            "Redis": 3, 
+            "MySQL": 2833, 
+            "date": "2019-12-03", 
+            "Riak": 0, 
+            "Memcached": 17, 
             "Cassandra": 0
         }
     ]
