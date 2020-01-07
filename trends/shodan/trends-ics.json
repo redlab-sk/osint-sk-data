@@ -12,11 +12,11 @@
             "Niagara": 104, 
             "CODESYS": 3, 
             "date": "2019-12-01", 
+            "DNP3": 3, 
             "IEC-60870-5-104": 8, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 3
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -30,11 +30,11 @@
             "Niagara": 103, 
             "CODESYS": 3, 
             "date": "2019-12-03", 
+            "DNP3": 4, 
             "IEC-60870-5-104": 9, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 4
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -48,11 +48,11 @@
             "Niagara": 103, 
             "CODESYS": 4, 
             "date": "2019-12-08", 
-            "DNP3": 3, 
             "IEC-60870-5-104": 9, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 3
         }, 
         {
             "ProConOS": 0, 
@@ -66,11 +66,11 @@
             "Niagara": 102, 
             "CODESYS": 4, 
             "date": "2019-12-10", 
+            "DNP3": 3, 
             "IEC-60870-5-104": 10, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 3
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -84,11 +84,11 @@
             "Niagara": 106, 
             "CODESYS": 4, 
             "date": "2019-12-13", 
-            "DNP3": 3, 
             "IEC-60870-5-104": 10, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 3
         }, 
         {
             "ProConOS": 0, 
@@ -102,11 +102,11 @@
             "Niagara": 105, 
             "CODESYS": 4, 
             "date": "2019-12-17", 
+            "DNP3": 3, 
             "IEC-60870-5-104": 10, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 3
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -120,11 +120,11 @@
             "Niagara": 104, 
             "CODESYS": 4, 
             "date": "2019-12-20", 
-            "DNP3": 3, 
             "IEC-60870-5-104": 9, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 3
         }, 
         {
             "ProConOS": 0, 
@@ -138,11 +138,11 @@
             "Niagara": 103, 
             "CODESYS": 4, 
             "date": "2019-12-24", 
+            "DNP3": 3, 
             "IEC-60870-5-104": 9, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 3
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -156,11 +156,11 @@
             "Niagara": 103, 
             "CODESYS": 4, 
             "date": "2019-12-27", 
-            "DNP3": 4, 
             "IEC-60870-5-104": 9, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 4
         }, 
         {
             "ProConOS": 0, 
@@ -174,11 +174,11 @@
             "Niagara": 109, 
             "CODESYS": 4, 
             "date": "2019-12-31", 
+            "DNP3": 4, 
             "IEC-60870-5-104": 9, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 4
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -192,6 +192,24 @@
             "Niagara": 108, 
             "CODESYS": 4, 
             "date": "2020-01-03", 
+            "IEC-60870-5-104": 9, 
+            "MELSEC-Q": 0, 
+            "HART-IP": 0, 
+            "GE-SRTP": 0, 
+            "DNP3": 4
+        }, 
+        {
+            "ProConOS": 0, 
+            "EtherNet-IP": 66, 
+            "OMRON-FINS": 1, 
+            "Siemens-S7": 45, 
+            "PCWorx": 0, 
+            "Crimson-v3": 0, 
+            "Modbus": 106, 
+            "BACnet": 32, 
+            "Niagara": 109, 
+            "CODESYS": 4, 
+            "date": "2020-01-07", 
             "DNP3": 4, 
             "IEC-60870-5-104": 9, 
             "HART-IP": 0, 
