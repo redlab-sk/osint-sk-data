@@ -1,11 +1,11 @@
 {
     "PostgreSQL": 624, 
-    "Elastic": 13, 
+    "Elastic": 15, 
     "MongoDB": 19, 
     "CouchDB": 0, 
-    "Redis": 5, 
-    "MySQL": 2506, 
+    "Redis": 6, 
+    "MySQL": 2517, 
     "Riak": 0, 
-    "Memcached": 16, 
+    "Memcached": 15, 
     "Cassandra": 0
 }
