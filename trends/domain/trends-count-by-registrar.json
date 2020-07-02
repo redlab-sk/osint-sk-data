@@ -5851,10 +5851,10 @@
             "EXO TECHNOLOGIES spol. s r.o.": 16888
         }, 
         {
-            "INTERNET CZ, a.s.": 25641, 
+            "Websupport, s.r.o.": 123804, 
             "Webglobe - Yegon, s. r. o.": 38872, 
             "ZONER s.r.o.": 8415, 
-            "Websupport, s.r.o.": 123804, 
+            "INTERNET CZ, a.s.": 25641, 
             "WebHouse, s.r.o.": 32218, 
             "IGNUM s.r.o.": 5950, 
             "WEDOS Internet, a.s.": 9420, 
@@ -5862,6 +5862,19 @@
             "ACTIVE 24, s.r.o.": 30059, 
             "Gransy s.r.o.": 17284, 
             "EXO TECHNOLOGIES spol. s r.o.": 16886
+        }, 
+        {
+            "INTERNET CZ, a.s.": 25662, 
+            "Webglobe - Yegon, s. r. o.": 38887, 
+            "ZONER s.r.o.": 8411, 
+            "Websupport, s.r.o.": 123841, 
+            "WebHouse, s.r.o.": 32218, 
+            "IGNUM s.r.o.": 5953, 
+            "WEDOS Internet, a.s.": 9425, 
+            "date": "2020-07-02", 
+            "ACTIVE 24, s.r.o.": 30057, 
+            "Gransy s.r.o.": 17293, 
+            "EXO TECHNOLOGIES spol. s r.o.": 16877
         }
     ]
 }
