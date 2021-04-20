@@ -791,6 +791,18 @@
             "Riak": 0, 
             "Memcached": 11, 
             "Cassandra": 0
+        }, 
+        {
+            "PostgreSQL": 604, 
+            "Elastic": 8, 
+            "MongoDB": 19, 
+            "CouchDB": 1, 
+            "Redis": 2, 
+            "MySQL": 1794, 
+            "date": "2021-04-20", 
+            "Riak": 0, 
+            "Memcached": 12, 
+            "Cassandra": 0
         }
     ]
 }
