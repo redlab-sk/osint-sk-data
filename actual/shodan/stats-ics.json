@@ -1,8 +1,8 @@
 {
     "ProConOS": 0, 
-    "EtherNet-IP": 82, 
+    "EtherNet-IP": 79, 
     "OMRON-FINS": 2, 
-    "Siemens-S7": 104, 
+    "Siemens-S7": 103, 
     "PCWorx": 0, 
     "Crimson-v3": 0, 
     "Modbus": 194, 
