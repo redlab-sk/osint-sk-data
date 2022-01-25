@@ -1223,6 +1223,18 @@
             "Riak": 0, 
             "Memcached": 8, 
             "Cassandra": 2
+        }, 
+        {
+            "PostgreSQL": 573, 
+            "Elastic": 2, 
+            "MongoDB": 21, 
+            "CouchDB": 0, 
+            "Redis": 3, 
+            "MySQL": 1698, 
+            "date": "2022-01-25", 
+            "Riak": 0, 
+            "Memcached": 7, 
+            "Cassandra": 1
         }
     ]
 }
