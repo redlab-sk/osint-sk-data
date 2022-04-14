@@ -12,11 +12,11 @@
             "Niagara": 104, 
             "CODESYS": 3, 
             "date": "2019-12-01", 
-            "DNP3": 3, 
             "IEC-60870-5-104": 8, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 3
         }, 
         {
             "ProConOS": 0, 
@@ -30,11 +30,11 @@
             "Niagara": 103, 
             "CODESYS": 3, 
             "date": "2019-12-03", 
-            "DNP3": 4, 
             "IEC-60870-5-104": 9, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 4
         }, 
         {
             "ProConOS": 0, 
@@ -48,11 +48,11 @@
             "Niagara": 103, 
             "CODESYS": 4, 
             "date": "2019-12-08", 
+            "DNP3": 3, 
             "IEC-60870-5-104": 9, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 3
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -66,11 +66,11 @@
             "Niagara": 102, 
             "CODESYS": 4, 
             "date": "2019-12-10", 
-            "DNP3": 3, 
             "IEC-60870-5-104": 10, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 3
         }, 
         {
             "ProConOS": 0, 
@@ -84,11 +84,11 @@
             "Niagara": 106, 
             "CODESYS": 4, 
             "date": "2019-12-13", 
+            "DNP3": 3, 
             "IEC-60870-5-104": 10, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 3
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -102,11 +102,11 @@
             "Niagara": 105, 
             "CODESYS": 4, 
             "date": "2019-12-17", 
-            "DNP3": 3, 
             "IEC-60870-5-104": 10, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 3
         }, 
         {
             "ProConOS": 0, 
@@ -120,11 +120,11 @@
             "Niagara": 104, 
             "CODESYS": 4, 
             "date": "2019-12-20", 
+            "DNP3": 3, 
             "IEC-60870-5-104": 9, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 3
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -138,11 +138,11 @@
             "Niagara": 103, 
             "CODESYS": 4, 
             "date": "2019-12-24", 
-            "DNP3": 3, 
             "IEC-60870-5-104": 9, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 3
         }, 
         {
             "ProConOS": 0, 
@@ -156,11 +156,11 @@
             "Niagara": 103, 
             "CODESYS": 4, 
             "date": "2019-12-27", 
+            "DNP3": 4, 
             "IEC-60870-5-104": 9, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 4
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -174,11 +174,11 @@
             "Niagara": 109, 
             "CODESYS": 4, 
             "date": "2019-12-31", 
-            "DNP3": 4, 
             "IEC-60870-5-104": 9, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 4
         }, 
         {
             "ProConOS": 0, 
@@ -192,11 +192,11 @@
             "Niagara": 108, 
             "CODESYS": 4, 
             "date": "2020-01-03", 
+            "DNP3": 4, 
             "IEC-60870-5-104": 9, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 4
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -210,11 +210,11 @@
             "Niagara": 109, 
             "CODESYS": 4, 
             "date": "2020-01-07", 
-            "DNP3": 4, 
             "IEC-60870-5-104": 9, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 4
         }, 
         {
             "ProConOS": 0, 
@@ -228,11 +228,11 @@
             "Niagara": 102, 
             "CODESYS": 4, 
             "date": "2020-01-10", 
+            "DNP3": 4, 
             "IEC-60870-5-104": 9, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 4
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -246,11 +246,11 @@
             "Niagara": 95, 
             "CODESYS": 4, 
             "date": "2020-01-14", 
-            "DNP3": 4, 
             "IEC-60870-5-104": 10, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 4
         }, 
         {
             "ProConOS": 0, 
@@ -264,11 +264,11 @@
             "Niagara": 102, 
             "CODESYS": 4, 
             "date": "2020-01-21", 
+            "DNP3": 4, 
             "IEC-60870-5-104": 8, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 4
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -282,11 +282,11 @@
             "Niagara": 106, 
             "CODESYS": 4, 
             "date": "2020-01-28", 
-            "DNP3": 4, 
             "IEC-60870-5-104": 9, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 4
         }, 
         {
             "ProConOS": 0, 
@@ -300,11 +300,11 @@
             "Niagara": 105, 
             "CODESYS": 4, 
             "date": "2020-02-04", 
+            "DNP3": 4, 
             "IEC-60870-5-104": 8, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 4
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -318,11 +318,11 @@
             "Niagara": 101, 
             "CODESYS": 4, 
             "date": "2020-02-11", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 8, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -336,11 +336,11 @@
             "Niagara": 98, 
             "CODESYS": 3, 
             "date": "2020-02-18", 
+            "DNP3": 3, 
             "IEC-60870-5-104": 6, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 3
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -354,11 +354,11 @@
             "Niagara": 87, 
             "CODESYS": 3, 
             "date": "2020-02-25", 
-            "DNP3": 3, 
             "IEC-60870-5-104": 4, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 3
         }, 
         {
             "ProConOS": 0, 
@@ -372,11 +372,11 @@
             "Niagara": 92, 
             "CODESYS": 2, 
             "date": "2020-03-10", 
+            "DNP3": 3, 
             "IEC-60870-5-104": 6, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 3
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -390,11 +390,11 @@
             "Niagara": 97, 
             "CODESYS": 3, 
             "date": "2020-03-17", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 7, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -408,11 +408,11 @@
             "Niagara": 102, 
             "CODESYS": 3, 
             "date": "2020-03-24", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 7, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -426,11 +426,11 @@
             "Niagara": 97, 
             "CODESYS": 4, 
             "date": "2020-03-31", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 7, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -444,11 +444,11 @@
             "Niagara": 94, 
             "CODESYS": 5, 
             "date": "2020-04-07", 
+            "DNP3": 3, 
             "IEC-60870-5-104": 7, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 3
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -462,11 +462,11 @@
             "Niagara": 93, 
             "CODESYS": 5, 
             "date": "2020-04-14", 
-            "DNP3": 3, 
             "IEC-60870-5-104": 8, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 3
         }, 
         {
             "ProConOS": 0, 
@@ -480,11 +480,11 @@
             "Niagara": 95, 
             "CODESYS": 5, 
             "date": "2020-04-21", 
+            "DNP3": 3, 
             "IEC-60870-5-104": 8, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 3
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -498,11 +498,11 @@
             "Niagara": 98, 
             "CODESYS": 4, 
             "date": "2020-04-28", 
-            "DNP3": 3, 
             "IEC-60870-5-104": 8, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 3
         }, 
         {
             "ProConOS": 0, 
@@ -516,11 +516,11 @@
             "Niagara": 92, 
             "CODESYS": 3, 
             "date": "2020-05-05", 
+            "DNP3": 3, 
             "IEC-60870-5-104": 8, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 3
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -534,11 +534,11 @@
             "Niagara": 93, 
             "CODESYS": 3, 
             "date": "2020-05-12", 
-            "DNP3": 3, 
             "IEC-60870-5-104": 6, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 3
         }, 
         {
             "ProConOS": 0, 
@@ -552,11 +552,11 @@
             "Niagara": 90, 
             "CODESYS": 1, 
             "date": "2020-05-19", 
+            "DNP3": 3, 
             "IEC-60870-5-104": 5, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 3
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -570,11 +570,11 @@
             "Niagara": 93, 
             "CODESYS": 1, 
             "date": "2020-06-02", 
-            "DNP3": 3, 
             "IEC-60870-5-104": 7, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 3
         }, 
         {
             "ProConOS": 0, 
@@ -588,11 +588,11 @@
             "Niagara": 92, 
             "CODESYS": 1, 
             "date": "2020-06-16", 
+            "DNP3": 3, 
             "IEC-60870-5-104": 9, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 3
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -606,11 +606,11 @@
             "Niagara": 97, 
             "CODESYS": 1, 
             "date": "2020-06-23", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 8, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -624,11 +624,11 @@
             "Niagara": 89, 
             "CODESYS": 2, 
             "date": "2020-06-30", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 10, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -642,11 +642,11 @@
             "Niagara": 91, 
             "CODESYS": 2, 
             "date": "2020-07-21", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 7, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -660,11 +660,11 @@
             "Niagara": 78, 
             "CODESYS": 3, 
             "date": "2020-08-25", 
+            "DNP3": 1, 
             "IEC-60870-5-104": 4, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 1
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -678,11 +678,11 @@
             "Niagara": 73, 
             "CODESYS": 3, 
             "date": "2020-09-01", 
-            "DNP3": 1, 
             "IEC-60870-5-104": 4, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 1
         }, 
         {
             "ProConOS": 0, 
@@ -696,11 +696,11 @@
             "Niagara": 70, 
             "CODESYS": 3, 
             "date": "2020-09-08", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -714,11 +714,11 @@
             "Niagara": 78, 
             "CODESYS": 4, 
             "date": "2020-09-15", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -732,11 +732,11 @@
             "Niagara": 83, 
             "CODESYS": 4, 
             "date": "2020-09-22", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 3, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -750,11 +750,11 @@
             "Niagara": 85, 
             "CODESYS": 5, 
             "date": "2020-09-29", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 1, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -768,11 +768,11 @@
             "Niagara": 80, 
             "CODESYS": 5, 
             "date": "2020-10-06", 
+            "DNP3": 1, 
             "IEC-60870-5-104": 3, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 1
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -786,11 +786,11 @@
             "Niagara": 79, 
             "CODESYS": 6, 
             "date": "2020-10-13", 
-            "DNP3": 1, 
             "IEC-60870-5-104": 3, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 1
         }, 
         {
             "ProConOS": 0, 
@@ -804,11 +804,11 @@
             "Niagara": 77, 
             "CODESYS": 5, 
             "date": "2020-10-27", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 3, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -822,11 +822,11 @@
             "Niagara": 80, 
             "CODESYS": 5, 
             "date": "2020-11-03", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 3, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -840,11 +840,11 @@
             "Niagara": 77, 
             "CODESYS": 3, 
             "date": "2020-11-10", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 3, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -858,11 +858,11 @@
             "Niagara": 76, 
             "CODESYS": 4, 
             "date": "2020-11-17", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 5, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -876,11 +876,11 @@
             "Niagara": 77, 
             "CODESYS": 3, 
             "date": "2020-11-24", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 7, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -894,11 +894,11 @@
             "Niagara": 78, 
             "CODESYS": 5, 
             "date": "2020-12-01", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 6, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -912,11 +912,11 @@
             "Niagara": 79, 
             "CODESYS": 5, 
             "date": "2020-12-08", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 6, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -930,11 +930,11 @@
             "Niagara": 80, 
             "CODESYS": 4, 
             "date": "2020-12-22", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 4, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -948,11 +948,11 @@
             "Niagara": 82, 
             "CODESYS": 3, 
             "date": "2020-12-29", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 3, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -966,11 +966,11 @@
             "Niagara": 85, 
             "CODESYS": 4, 
             "date": "2021-01-05", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 4, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -984,11 +984,11 @@
             "Niagara": 83, 
             "CODESYS": 6, 
             "date": "2021-01-12", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 3, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1002,11 +1002,11 @@
             "Niagara": 86, 
             "CODESYS": 6, 
             "date": "2021-01-19", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 3, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1020,11 +1020,11 @@
             "Niagara": 85, 
             "CODESYS": 6, 
             "date": "2021-01-26", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 4, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1038,11 +1038,11 @@
             "Niagara": 84, 
             "CODESYS": 6, 
             "date": "2021-02-02", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 4, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1056,11 +1056,11 @@
             "Niagara": 80, 
             "CODESYS": 5, 
             "date": "2021-02-09", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 4, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1074,11 +1074,11 @@
             "Niagara": 82, 
             "CODESYS": 4, 
             "date": "2021-02-16", 
-            "DNP3": 1, 
             "IEC-60870-5-104": 4, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 1
         }, 
         {
             "ProConOS": 0, 
@@ -1092,11 +1092,11 @@
             "Niagara": 79, 
             "CODESYS": 4, 
             "date": "2021-02-23", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 3, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1110,11 +1110,11 @@
             "Niagara": 81, 
             "CODESYS": 4, 
             "date": "2021-03-02", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1128,11 +1128,11 @@
             "Niagara": 75, 
             "CODESYS": 5, 
             "date": "2021-03-09", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1146,11 +1146,11 @@
             "Niagara": 74, 
             "CODESYS": 5, 
             "date": "2021-03-16", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 4, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1164,11 +1164,11 @@
             "Niagara": 81, 
             "CODESYS": 2, 
             "date": "2021-03-30", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 3, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1182,11 +1182,11 @@
             "Niagara": 73, 
             "CODESYS": 1, 
             "date": "2021-04-13", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1200,11 +1200,11 @@
             "Niagara": 70, 
             "CODESYS": 2, 
             "date": "2021-04-20", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1218,11 +1218,11 @@
             "Niagara": 72, 
             "CODESYS": 2, 
             "date": "2021-04-27", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1236,11 +1236,11 @@
             "Niagara": 71, 
             "CODESYS": 2, 
             "date": "2021-05-04", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1254,11 +1254,11 @@
             "Niagara": 68, 
             "CODESYS": 2, 
             "date": "2021-05-11", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1272,11 +1272,11 @@
             "Niagara": 80, 
             "CODESYS": 1, 
             "date": "2021-05-18", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1290,11 +1290,11 @@
             "Niagara": 77, 
             "CODESYS": 0, 
             "date": "2021-05-25", 
-            "DNP3": 1, 
             "IEC-60870-5-104": 2, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 1
         }, 
         {
             "ProConOS": 0, 
@@ -1308,11 +1308,11 @@
             "Niagara": 74, 
             "CODESYS": 1, 
             "date": "2021-06-01", 
+            "DNP3": 1, 
             "IEC-60870-5-104": 2, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 1
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1326,11 +1326,11 @@
             "Niagara": 71, 
             "CODESYS": 1, 
             "date": "2021-06-08", 
-            "DNP3": 1, 
             "IEC-60870-5-104": 2, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 1
         }, 
         {
             "ProConOS": 0, 
@@ -1344,11 +1344,11 @@
             "Niagara": 70, 
             "CODESYS": 1, 
             "date": "2021-06-15", 
+            "DNP3": 0, 
             "IEC-60870-5-104": 3, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 0
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1362,11 +1362,11 @@
             "Niagara": 70, 
             "CODESYS": 2, 
             "date": "2021-06-22", 
-            "DNP3": 1, 
             "IEC-60870-5-104": 2, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 1
         }, 
         {
             "ProConOS": 0, 
@@ -1380,11 +1380,11 @@
             "Niagara": 78, 
             "CODESYS": 3, 
             "date": "2021-06-29", 
+            "DNP3": 1, 
             "IEC-60870-5-104": 3, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 1
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1398,11 +1398,11 @@
             "Niagara": 79, 
             "CODESYS": 2, 
             "date": "2021-07-06", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 3, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1416,11 +1416,11 @@
             "Niagara": 80, 
             "CODESYS": 3, 
             "date": "2021-07-13", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1434,11 +1434,11 @@
             "Niagara": 81, 
             "CODESYS": 3, 
             "date": "2021-07-20", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1452,11 +1452,11 @@
             "Niagara": 78, 
             "CODESYS": 3, 
             "date": "2021-07-27", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 1, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1470,11 +1470,11 @@
             "Niagara": 83, 
             "CODESYS": 3, 
             "date": "2021-08-03", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 3, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1488,11 +1488,11 @@
             "Niagara": 85, 
             "CODESYS": 3, 
             "date": "2021-08-10", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 3, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1506,11 +1506,11 @@
             "Niagara": 87, 
             "CODESYS": 4, 
             "date": "2021-08-17", 
-            "DNP3": 1, 
             "IEC-60870-5-104": 5, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 1
         }, 
         {
             "ProConOS": 0, 
@@ -1524,11 +1524,11 @@
             "Niagara": 87, 
             "CODESYS": 4, 
             "date": "2021-08-24", 
+            "DNP3": 1, 
             "IEC-60870-5-104": 5, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 1
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1542,11 +1542,11 @@
             "Niagara": 86, 
             "CODESYS": 4, 
             "date": "2021-08-31", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 4, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1560,11 +1560,11 @@
             "Niagara": 91, 
             "CODESYS": 4, 
             "date": "2021-09-07", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 4, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1578,11 +1578,11 @@
             "Niagara": 84, 
             "CODESYS": 5, 
             "date": "2021-09-14", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 3, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1596,11 +1596,11 @@
             "Niagara": 81, 
             "CODESYS": 4, 
             "date": "2021-09-21", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1614,11 +1614,11 @@
             "Niagara": 79, 
             "CODESYS": 5, 
             "date": "2021-09-28", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1632,11 +1632,11 @@
             "Niagara": 79, 
             "CODESYS": 5, 
             "date": "2021-10-05", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 4, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1650,11 +1650,11 @@
             "Niagara": 81, 
             "CODESYS": 5, 
             "date": "2021-10-12", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 4, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1668,11 +1668,11 @@
             "Niagara": 82, 
             "CODESYS": 7, 
             "date": "2021-10-19", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 4, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1686,11 +1686,11 @@
             "Niagara": 84, 
             "CODESYS": 6, 
             "date": "2021-10-26", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 5, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1704,11 +1704,11 @@
             "Niagara": 84, 
             "CODESYS": 7, 
             "date": "2021-11-02", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 4, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1722,11 +1722,11 @@
             "Niagara": 86, 
             "CODESYS": 6, 
             "date": "2021-11-09", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1740,11 +1740,11 @@
             "Niagara": 82, 
             "CODESYS": 5, 
             "date": "2021-11-16", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 3, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 0, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 1, 
@@ -1758,11 +1758,11 @@
             "Niagara": 78, 
             "CODESYS": 5, 
             "date": "2021-11-23", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 1, 
@@ -1776,11 +1776,11 @@
             "Niagara": 72, 
             "CODESYS": 4, 
             "date": "2021-11-30", 
+            "DNP3": 1, 
             "IEC-60870-5-104": 3, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 1
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1794,11 +1794,11 @@
             "Niagara": 74, 
             "CODESYS": 6, 
             "date": "2021-12-14", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 3, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1812,11 +1812,11 @@
             "Niagara": 81, 
             "CODESYS": 4, 
             "date": "2022-01-04", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1830,11 +1830,11 @@
             "Niagara": 79, 
             "CODESYS": 4, 
             "date": "2022-01-11", 
-            "DNP3": 1, 
             "IEC-60870-5-104": 1, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 1
         }, 
         {
             "ProConOS": 0, 
@@ -1848,11 +1848,11 @@
             "Niagara": 68, 
             "CODESYS": 1, 
             "date": "2022-01-25", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 1, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1866,11 +1866,11 @@
             "Niagara": 66, 
             "CODESYS": 1, 
             "date": "2022-02-01", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 1, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1884,11 +1884,11 @@
             "Niagara": 68, 
             "CODESYS": 4, 
             "date": "2022-02-08", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 1, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1902,11 +1902,11 @@
             "Niagara": 72, 
             "CODESYS": 4, 
             "date": "2022-02-15", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 1, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1920,11 +1920,11 @@
             "Niagara": 75, 
             "CODESYS": 6, 
             "date": "2022-02-22", 
+            "DNP3": 1, 
             "IEC-60870-5-104": 2, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 1
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1938,11 +1938,11 @@
             "Niagara": 74, 
             "CODESYS": 6, 
             "date": "2022-03-01", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 3, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1956,11 +1956,11 @@
             "Niagara": 75, 
             "CODESYS": 4, 
             "date": "2022-03-08", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -1974,11 +1974,11 @@
             "Niagara": 77, 
             "CODESYS": 4, 
             "date": "2022-03-15", 
-            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 2
         }, 
         {
             "ProConOS": 0, 
@@ -1992,11 +1992,11 @@
             "Niagara": 76, 
             "CODESYS": 4, 
             "date": "2022-03-22", 
+            "DNP3": 2, 
             "IEC-60870-5-104": 2, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 2
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -2010,11 +2010,11 @@
             "Niagara": 72, 
             "CODESYS": 3, 
             "date": "2022-03-29", 
-            "DNP3": 1, 
             "IEC-60870-5-104": 2, 
+            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "MELSEC-Q": 0
+            "DNP3": 1
         }, 
         {
             "ProConOS": 0, 
@@ -2028,11 +2028,11 @@
             "Niagara": 80, 
             "CODESYS": 3, 
             "date": "2022-04-05", 
+            "DNP3": 1, 
             "IEC-60870-5-104": 1, 
-            "MELSEC-Q": 0, 
             "HART-IP": 0, 
             "GE-SRTP": 1, 
-            "DNP3": 1
+            "MELSEC-Q": 0
         }, 
         {
             "ProConOS": 0, 
@@ -2046,6 +2046,24 @@
             "Niagara": 83, 
             "CODESYS": 4, 
             "date": "2022-04-12", 
+            "IEC-60870-5-104": 1, 
+            "MELSEC-Q": 0, 
+            "HART-IP": 0, 
+            "GE-SRTP": 1, 
+            "DNP3": 3
+        }, 
+        {
+            "ProConOS": 0, 
+            "EtherNet-IP": 89, 
+            "OMRON-FINS": 1, 
+            "Siemens-S7": 104, 
+            "PCWorx": 0, 
+            "Crimson-v3": 0, 
+            "Modbus": 187, 
+            "BACnet": 24, 
+            "Niagara": 86, 
+            "CODESYS": 4, 
+            "date": "2022-04-14", 
             "DNP3": 3, 
             "IEC-60870-5-104": 1, 
             "HART-IP": 0, 
